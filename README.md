@@ -1,7 +1,7 @@
-# 03 JavaScript: Password Generator
+# 03 Password Generator
 
 ```
-A password generator that takes user input for selected criteria, and returns a randomized password that meets those criteria.
+A password generator that returns a randomized string based on user-defined parameters.
 ```
 
 ## Description

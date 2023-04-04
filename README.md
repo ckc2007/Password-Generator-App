@@ -34,9 +34,9 @@ THEN a password that meets my criteria is displayed in the form of a string in t
 
 ## Deployed Page
 
-[https://ckc2007.github.io/hw-03-password-generator/]
+[https://ckc2007.github.io/Password-Generator-Application/]
 
-![demo page](./Assets/images/hw-03-password-gen-example.png)
+![demo page](./Assets/images/password-generator-application-deployed)
 
 ```
 The above is a screenshot of the deployed page

@@ -29,7 +29,7 @@ THEN I am prompted with a series of questions asking for the criteria I want for
 WHEN I answer the question by clicking on the prompt button ('ok' for yes, 'cancel' for no)
 THEN a confirmation alert is displayed and I am taken to the next question
 WHEN all questions are completed
-THEN a password in the form of a string is displayed in the text area
+THEN a password that meets my criteria is displayed in the form of a string in the text area.
 ```
 
 ## Deployed Page

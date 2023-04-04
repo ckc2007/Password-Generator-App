@@ -7,17 +7,17 @@ A password generator that returns a randomized string based on user-defined para
 ## Description
 
 ```
-User inputs the desired length of the password (between 8 and 128 characters),
+User enters the desired length of the password (between 8 and 128 characters),
 User selects at least one character type (upper Case, lower Case, numeric, or special characters)
-The password generator will disply the password in the text area.
+The password generator will disply the password as a string in the text area.
 ```
 
 ## User Story
 
 ```
-AS A user of the random password generator web app
-I WANT to choose the length of the password, and the type of characters I want to have included in my password
-SO THAT I can customize the length and complexity of the password I want to use.
+AS A website user
+I WANT to be able to customize the length and complexity of the password I generate
+SO THAT I can taylor my password to its use-case.
 ```
 
 ## Acceptance Criteria
